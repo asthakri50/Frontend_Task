@@ -1,0 +1,137 @@
+.Navbar{
+position: absolute;
+width: 100%;
+height: 171px;
+left: 0px;
+top: 0px;
+
+background: #131514;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.App-logo{
+position: absolute;
+width: 196px;
+height: 94px;
+left: 47px;
+top: 10%;
+}
+
+.Home{
+    position: absolute;
+    width: 56px;
+    height: 24px;
+    left: 25%;
+    top: 73px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+    
+}
+
+.Service{
+    position: absolute;
+width: 71px;
+height: 24px;
+left: 32%;
+top: 73px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+.Portfolio{
+    position: absolute;
+    width: 81px;
+    height: 24px;
+    left: 38%;
+    top: 73px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+}
+
+.Community{
+    position: absolute;
+width: 108px;
+height: 24px;
+left: 45%;
+top: 73px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+
+.Blog{
+    position: absolute;
+width: 42px;
+height: 24px;
+left: 55%;
+top: 73px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+}
+
+.SignUp-Button{
+position: absolute;
+width: 120px;
+height: 45px;
+left: 75%;
+top: 62px;
+text-align: center;
+align-items: center;
+background: linear-gradient(180deg, #017B96 0%, #1E4047 100%);
+border-radius: 23.5px;
+padding: 2.5px 2.5px;
+margin: 1px 1px ;
+}
+
+.SignIn-Button{
+position: absolute;
+width: 120px;
+height: 45px;
+left: 85%;
+top: 62px;
+text-align: center;
+align-items: center;
+background: linear-gradient(180deg, rgba(78, 153, 164, 0.95) 0%, #004D58 100%);
+border-radius: 23.5px;
+padding: 2.5px 2.5px;
+margin: 1px 1px ;
+}
+
+.button{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
